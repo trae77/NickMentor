@@ -2,6 +2,7 @@
 Nick mentor community
 
 What is a Mentorship :
+
 1 . A software development mentorship is a learning relationship between an experienced software developer (the mentor) and a less experienced developer (the mentee). The purpose of the mentorship is to help the mentee develop the skills and knowledge necessary to become a successful software developer, and to provide guidance and support as they navigate the challenges and opportunities of the field.
 
 2. The mentorship typically involves regular meetings or communication between the mentor and mentee, during which they may discuss topics such as programming languages, software design principles, project management, career development, and other relevant areas. The mentor may also provide the mentee with feedback on their code, review their projects, or suggest resources and learning opportunities.
@@ -10,7 +11,8 @@ What is a Mentorship :
 
 Overall, a software development mentorship can be an incredibly valuable experience for any developer looking to improve their skills, gain insights into the industry, and advance their career. By providing personalized guidance and support, a mentor can help their mentee achieve their goals and reach their full potential as a software developer.
 
-Challenges
+Challenges:
+
 There are a number of challenges that junior developers may face when trying to get hired, including:
 
 1. Lack of experience: Many job postings for software developers require a certain level of experience, which can be difficult for junior developers to meet. Without experience, junior developers may struggle to stand out among more seasoned applicants.
@@ -26,7 +28,8 @@ There are a number of challenges that junior developers may face when trying to 
 These challenges can make it difficult for junior developers to get hired, but they are not insurmountable. With persistence, dedication, and a willingness to learn and improve, junior developers can develop the skills and experience they need to land their first job in the field. Seeking out mentorship, building their skills through personal projects, and networking with other professionals can all help junior developers stand out and get noticed by potential employers.
 
 
-Plan for a mentorship
+Plan for a mentorship:
+
 Here are some key steps to create a plan for a mentorship:
 
 1. Define the goals: First, the mentor and mentee should agree on the goals of the mentorship. These might include improving the mentee's coding skills, building a portfolio, or gaining exposure to a new technology.
